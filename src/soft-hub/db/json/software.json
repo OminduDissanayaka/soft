@@ -1,0 +1,68 @@
+{
+  "categories": {
+    "🎮 Games": {
+      "GTA V Premium Edition": {
+        "description": "Open-world action-adventure game with immersive gameplay and stunning graphics",
+        "download_link": "https://example.com/gta5_premium.zip",
+        "file_size": "95 GB",
+        "version": "1.0",
+        "type": "game",
+        "emoji": "🚗",
+        "requirements": "Windows 10, 8GB RAM, 100GB Storage, DirectX 11"
+      },
+      "Call of Duty Modern Warfare 3": {
+        "description": "First-person shooter with amazing graphics and multiplayer mode",
+        "download_link": "https://example.com/cod_mw3.zip",
+        "file_size": "75 GB",
+        "version": "1.2",
+        "type": "game",
+        "emoji": "🔫",
+        "requirements": "Windows 10, 16GB RAM, 120GB Storage, DirectX 12"
+      }
+    },
+    "💼 Software": {
+      "Adobe Photoshop 2024": {
+        "description": "Professional photo editing software with AI features",
+        "download_link": "https://example.com/photoshop2024.zip",
+        "file_size": "4.2 GB",
+        "version": "25.0",
+        "type": "software",
+        "emoji": "🎨",
+        "requirements": "Windows 10, 8GB RAM, 10GB Storage"
+      },
+      "Microsoft Office 2024": {
+        "description": "Complete office suite with Word, Excel, PowerPoint",
+        "download_link": "https://example.com/office2024.zip",
+        "file_size": "3.8 GB",
+        "version": "2024",
+        "type": "software",
+        "emoji": "📊",
+        "requirements": "Windows 10, 4GB RAM, 8GB Storage"
+      }
+    },
+    "📱 Mobile Apps": {
+      "WhatsApp Plus": {
+        "description": "Enhanced WhatsApp with extra features and customization",
+        "download_link": "https://example.com/whatsapp_plus.apk",
+        "file_size": "85 MB",
+        "version": "2.24",
+        "type": "app",
+        "emoji": "💚",
+        "requirements": "Android 5.0+, 100MB Storage"
+      }
+    },
+    "🎬 Media": {
+      "Adobe Premiere Pro 2024": {
+        "description": "Professional video editing software",
+        "download_link": "https://example.com/premiere2024.zip",
+        "file_size": "8.5 GB",
+        "version": "24.0",
+        "type": "software",
+        "emoji": "🎥",
+        "requirements": "Windows 10, 16GB RAM, 20GB Storage"
+      }
+    }
+  },
+  "last_updated": "2024-01-15",
+  "total_items": 6
+}
