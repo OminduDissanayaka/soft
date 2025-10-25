@@ -38,6 +38,15 @@
         "type": "software",
         "emoji": "📊",
         "requirements": "Windows 10, 4GB RAM, 8GB Storage"
+      },
+      "TikTok Effect House": {
+        "description": "Create amazing AR effects for TikTok with professional tools",
+        "download_link": "https://sf16-va.tiktokcdn.com/obj/eden-va2/olaa_ajlmml_zlp/ljhwZthlaukjlkulzlp/V530_External_Release_Builds_10152025/Effect_House_v5.3.0.2059_Win_101_Setup.exe",
+        "file_size": "1.2 GB",
+        "version": "5.3.0",
+        "type": "software",
+        "emoji": "🎭",
+        "requirements": "Windows 10/11, 8GB RAM, 2GB Storage, DirectX 11"
       }
     },
     "📱 Mobile Apps": {
@@ -63,6 +72,6 @@
       }
     }
   },
-  "last_updated": "2024-01-15",
-  "total_items": 6
+  "last_updated": "2024-01-20",
+  "total_items": 7
 }
